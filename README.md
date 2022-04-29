@@ -25,3 +25,6 @@ Landing Page
 5. Reserva de ingresso: ao clicar em "reservar ingresso", deve abrir um modal com
 formulário (nome e email), para que o usuário possa preencher os dados e
 reservar o ingresso.
+
+
+<strong>Obs: Tivemos alguns problemas com o github pages, ele não estava apresentando todas as funcionalidades.</strong>
