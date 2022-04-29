@@ -21,7 +21,7 @@ sempre", deve fazer uma requisição na API para excluir o evento do banco de
 dados.
 4. Ver reservas do evento: Listar as reservas de ingressos do evento selecionado.
 
-Landing Page
+Landing Page<br>
   5. Reserva de ingresso: ao clicar em "reservar ingresso", deve abrir um modal com
 formulário (nome e email), para que o usuário possa preencher os dados e
 reservar o ingresso.
