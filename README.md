@@ -22,7 +22,7 @@ dados.
 4. Ver reservas do evento: Listar as reservas de ingressos do evento selecionado.
 
 Landing Page
-5. Reserva de ingresso: ao clicar em "reservar ingresso", deve abrir um modal com
+  5. Reserva de ingresso: ao clicar em "reservar ingresso", deve abrir um modal com
 formulário (nome e email), para que o usuário possa preencher os dados e
 reservar o ingresso.
 
