@@ -20,6 +20,7 @@ evento, porém com os campos desabilitados. Ao clicar no botão "excluir para
 sempre", deve fazer uma requisição na API para excluir o evento do banco de
 dados.
 4. Ver reservas do evento: Listar as reservas de ingressos do evento selecionado.
+
 Landing Page
 5. Reserva de ingresso: ao clicar em "reservar ingresso", deve abrir um modal com
 formulário (nome e email), para que o usuário possa preencher os dados e
